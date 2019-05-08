@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\bin\Debug\Muabannhadat.exe.config
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\bin\Debug\Muabannhadat.exe
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\bin\Debug\Muabannhadat.pdb
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.exe
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.pdb
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Login.resources
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Trangchu.resources
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Thongtincanhan.resources
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Dangtin.resources
+C:\Users\Admin\Desktop\Assign2_CSDL\Muabannhadat\Muabannhadat\obj\Debug\Muabannhadat.Timkiem.resources

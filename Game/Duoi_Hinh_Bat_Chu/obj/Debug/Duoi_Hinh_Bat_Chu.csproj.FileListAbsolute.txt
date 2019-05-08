@@ -1,0 +1,14 @@
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\bin\Debug\Duoi_Hinh_Bat_Chu.exe.config
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\bin\Debug\Duoi_Hinh_Bat_Chu.exe
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\bin\Debug\Duoi_Hinh_Bat_Chu.pdb
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.csprojResolveAssemblyReference.cache
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.Form1.resources
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.Properties.Resources.resources
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.csproj.GenerateResource.Cache
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.exe
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.pdb
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.Form3.resources
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.dangnhap.resources
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.Form2.resources
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hien\Desktop\Ngay 1\GameDHBC\Game\Duoi_Hinh_Bat_Chu\obj\Debug\Duoi_Hinh_Bat_Chu.csproj.ResolveComReference.cache
